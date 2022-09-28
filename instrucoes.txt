@@ -1,0 +1,5 @@
+Acesse os links:
+
+https://github.com/FabricaDeSinapse/nodejs-prettier-template/blob/main/README.md#instalar-e-configurar-o-prettier
+
+https://www.youtube.com/watch?v=vFByu7-f858
